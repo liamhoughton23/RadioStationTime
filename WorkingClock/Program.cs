@@ -11,7 +11,7 @@ namespace WorkingClock
         static void Main(string[] args)
         {
             Clock radio = new Clock();
-            radio.DisplayTime();
+            radio.DisplayEverything();
             Console.ReadKey();
 
         }
